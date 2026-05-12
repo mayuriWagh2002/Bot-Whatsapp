@@ -1,6 +1,6 @@
 module.exports = {
   restaurantName: "Mario's Pizza",
-  ownerWhatsApp: "whatsapp:+91XXXXXXXXXX", // ← put owner's number here
+  ownerWhatsApp: "whatsapp:+919146683898", // ← put owner's number here
   currency: "₹",
   items: {
     "1": { name: "Margherita Pizza",  price: 299 },
